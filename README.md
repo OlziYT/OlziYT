@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <a href="olzi.pro@proton.me" target="_blank">
+  <a href="mailto:olzi.pro@proton.me" target="_blank">olzi.pro@proton.me</a>
     <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=6d50f7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
