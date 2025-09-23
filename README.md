@@ -56,7 +56,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=OlziYT.OlziYT&"  />
+  <img src="https://komarev.com/ghpvc/?username=OlziYT&label=Profile%20Visitors&color=blue&style=flat"  />
 </div>
 
 ###
