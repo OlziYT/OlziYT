@@ -1,98 +1,52 @@
+<h2 align="left">Hi 👋! My name is olzi and I'm a Full stack developer, from France</h2>
+
+###
+
 <div align="center">
-
-# Hi 👋, I'm olzi
-
-### A passionate developer from France
-
-<img src="https://github.com/OlziYT.png" alt="olzi" width="150" height="150" style="border-radius: 50%;" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=OlziYT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlziYT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-## 🚀 About Me
+###
 
-Specialized in web application development with React, Next.js, and Node.js. I have had the opportunity to work on various projects, ranging from showcase websites to complex enterprise applications. My approach focuses on code quality, performance, and user experience.
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/90570808?v=4"  />
 
-## 📚 Learning & Knowledge
+###
 
 <div align="left">
-
-- 🌱 I'm currently learning **Supabase, React, Vite, NextJS**
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
 </div>
 
-## 📞 Contact & Links
+###
 
 <div align="left">
-
-- 📫 How to reach me **olzi.pro@proton.me**
-- 👨‍💻 All of my projects are available at [https://olziyt.github.io/portfolio/](https://olziyt.github.io/portfolio/)
-
+  <a href="olzi.pro@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=6d50f7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
 
-## 🌐 Connect with Me
+###
 
-<div align="center">
+<br clear="both">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlziYT)
+<img src="https://raw.githubusercontent.com/OlziYT/OlziYT/output/snake.svg" alt="Snake animation" />
 
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />
-
-### 💻 Mobile App Development
-
-<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
-
-### 💻 Frontend Development
-
-<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
-
-### 💻 Backend Development
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />
-
-### 💻 DevOps
-
-<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
-
-### 💻 Static Site Generators
-
-<img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js"  />
-
-### 💻 Other
-
-<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=OlziYT&label=Profile%20Visitors&color=blueviolet&style=flat-square)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=OlziYT&theme=dark&column=7&margin-w=15&margin-h=15)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlziYT&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlziYT&layout=compact&theme=dark&langs_count=10)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=OlziYT&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
+###
