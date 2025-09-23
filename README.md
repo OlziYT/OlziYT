@@ -64,11 +64,3 @@ Je suis un·e développeur·se **Full Stack** passionné·e basé·e en France.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olziyt&show_icons=true&locale=en" alt="GitHub stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olziyt" alt="GitHub streak" /></p>
-
----
-
-### Projet(s) en vedette
-- 🔗 [Portfolio — Mes projets](https://olziyt.github.io/portfolio/)
-- (Ajoute ici 2–3 projets avec une courte description et lien)
-
----
