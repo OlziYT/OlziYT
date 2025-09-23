@@ -1,66 +1,98 @@
-# 👋 Bonjour — Développeur Full Stack 🇫🇷
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olziyt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+# Hi 👋, I'm olzi
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=olziyt" alt="GitHub Trophies" />
-  </a>
-</p>
+### A passionate developer from France
 
-Je suis un·e développeur·se **Full Stack** passionné·e basé·e en France.
+<img src="https://github.com/OlziYT.png" alt="olzi" width="150" height="150" style="border-radius: 50%;" />
 
-- 🌱 Actuellement en apprentissage : **Full Stack**
-- 👨‍💻 Projets : https://olziyt.github.io/portfolio/
-- 📫 Contact : <a href="mailto:olzi.pro@proton.me">olzi.pro@proton.me</a>
+</div>
+
+## 🚀 About Me
+
+Specialized in web application development with React, Next.js, and Node.js. I have had the opportunity to work on various projects, ranging from showcase websites to complex enterprise applications. My approach focuses on code quality, performance, and user experience.
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **Supabase, React, Vite, NextJS**
+
+</div>
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **olzi.pro@proton.me**
+- 👨‍💻 All of my projects are available at [https://olziyt.github.io/portfolio/](https://olziyt.github.io/portfolio/)
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlziYT)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />
+
+### 💻 Mobile App Development
+
+<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
+
+### 💻 Frontend Development
+
+<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />
+
+### 💻 Backend Development
+
+<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />
+
+### 💻 Database
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />
+
+### 💻 DevOps
+
+<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />
+
+### 💻 Static Site Generators
+
+<img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js"  />
+
+### 💻 Other
+
+<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=OlziYT&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=OlziYT&theme=dark&column=7&margin-w=15&margin-h=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlziYT&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlziYT&layout=compact&theme=dark&langs_count=10)
+
+</div>
 
 ---
 
-## 🔗 Connectez-vous avec moi
-<!-- Ajoute tes liens si tu veux : LinkedIn, Twitter, etc. -->
-<p align="left">
-  <!-- Exemple : <a href="https://linkedin.com/in/tonprofil">LinkedIn</a> -->
-</p>
+<div align="center">
 
----
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-## 🛠️ Langages & Outils
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
+**Thank you for visiting my profile! 😊**
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=OlziYT&color=brightgreen&style=flat-square&label=Profile+Views)
 
-## 📊 Statistiques GitHub
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olziyt&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olziyt&show_icons=true&locale=en" alt="GitHub stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olziyt" alt="GitHub streak" /></p>
+</div>
