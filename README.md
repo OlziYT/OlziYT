@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/static/v1?message=Mail&logo=protonmail&label=&color=6d50f7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <img width="8" />
-  <a href="https://olziyt.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio-olzi.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=e1967d&logoColor=white&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
 </div>
