@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OlziYT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OlziYT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.olzi.dev/api?username=OlziYT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.olzi.dev/api/top-langs?username=OlziYT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -40,11 +40,11 @@
 ###
 
 <div align="left">
-  <a href="mailto:olzi.pro@proton.me" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:contact@olzi.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Mail&logo=protonmail&label=&color=6d50f7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <img width="8" />
-  <a href="https://portfolio-olzi.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://olzi.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=e1967d&logoColor=white&style=for-the-badge" height="35" alt="portfolio badge" />
   </a>
 </div>
